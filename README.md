@@ -1,2 +1,2 @@
 # random
-Random for windows (only x32 edition)
+Random app for windows (only x32 edition)
